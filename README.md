@@ -5,6 +5,7 @@
 This program fetches the CosmosDB collections from an account, uses a Service Principal to fetch the Total Requests and the Throttled requests and displays them.
 
 To fill out the Application params, either change the App.config or add a file called app.secrets.config and fill out the parameters there.
+
 | Param | Value |
 | --- | --- |
 | AzureSubscriptionId | The subscription ID in which your CosmosDB resides |
