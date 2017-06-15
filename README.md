@@ -17,4 +17,5 @@ To fill out the Application params, either change the App.config or add a file c
 | CosmosDbAuthorizationKey | The CosmosDB Primary Read Key |
 
 Based on the great work by Michael Collier on getting generic Metrics through the Microsoft Azure Insights API. See: https://github.com/mcollier/microsoft-azure-insights-demo/
-Creating the Service Principal is discussed here in this post by Yossi Dassan: https://yossidahan.wordpress.com/2015/02/13/reading-metric-data-from-azure-using-the-azure-insights-library/
+
+Creating the Service Principal is discussed here in this post by Yossi Dahan: https://yossidahan.wordpress.com/2015/02/13/reading-metric-data-from-azure-using-the-azure-insights-library/
